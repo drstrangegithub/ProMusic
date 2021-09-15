@@ -60,7 +60,7 @@ i18n.configure({
  */
 client.on("ready", () => {
   console.log(`${client.user.username} ready!`);
-  client.user.setActivity(`${PREFIX}help and 365 ɢᴀᴍɪɴɢ ɴ ᴍᴏʀᴇ_2.0`, { type: "LISTENING" });
+  client.user.setActivity(`${PREFIX}help`, { type: "LISTENING" });
 });
 client.on("warn", (info) => console.log(info));
 client.on("error", console.error);
