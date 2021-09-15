@@ -28,7 +28,7 @@ Type (npm i) in console
   "YOUTUBE_API_KEY": "",
   "SOUNDCLOUD_CLIENT_ID": "",
   "MAX_PLAYLIST_SIZE": 10,
-  "PREFIX": "ad!",
+  "PREFIX": "/",
   "PRUNING": false,
   "STAY_TIME": 30,
   "LOCALE": "en",
