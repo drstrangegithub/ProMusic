@@ -49,7 +49,7 @@ i18n.configure({
  * Client Events
  */
 client.on("ready", () => {
-  console.log(`${client.user.username} ready!`);
+  console.log(`${client.user.username} is ready!!`);
   client.user.setActivity(`${PREFIX}help`, { type: "LISTENING" });
 });
 client.on("warn", (info) => console.log(info));
