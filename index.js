@@ -13,7 +13,7 @@ const client = new Client({
   restTimeOffset: 0
 });
 
-client.login(TOKEN);
+client.login(process.env.BOT_TOKEN);
 client.commands = new Collection();
 client.prefix = PREFIX;
 client.queue = new Map();
