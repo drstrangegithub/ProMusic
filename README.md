@@ -1,4 +1,4 @@
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/eritislami/evobot)
+
 
 # 🎵 ProMusic (Discord Music Bot)
 > ProMusic is a bot made using discord.js [discordjs.guide](https://discordjs.guide)
